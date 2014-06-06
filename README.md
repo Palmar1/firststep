@@ -1,4 +1,6 @@
 firststep
 =========
 
-First step
+First step repository
+
+To test and learn
